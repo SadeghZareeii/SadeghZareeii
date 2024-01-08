@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SadeghZarei
 - 🌱 I’m currently learning  JavaScrip
--🌍  I live in Bushehr city
--✉️  You can contact me at <sadeghzareidev@gmail.com>
+- 🌍  I live in Bushehr city
+- ✉️  You can contact me at <sadeghzareidev@gmail.com>
 
 
 <!---
