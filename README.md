@@ -1,8 +1,5 @@
-- 👋 Hi, I’m SadeghZarei
-- 🌱 I’m currently learning  JavaScrip
 
 - <h1 align="center">Hi 👋, I'm Sadegh</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **JavaScrip**
 
