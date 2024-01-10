@@ -39,8 +39,3 @@ alt="javascript" width="40" height="40"/> </a>
 SadeghZareeii/SadeghZareeii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  a {
-    margin: 0 30px 0 0  ;
- }
-</style>
