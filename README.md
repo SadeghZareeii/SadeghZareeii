@@ -2,11 +2,12 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **JavaScrip**
+- 📫 How to reach me **sadeghzareidev@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **sadeghzareidev@gmail.com**
+- 
 <p align="left">
 </p>
 
