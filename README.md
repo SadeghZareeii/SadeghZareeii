@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **JavaScrip**
 <h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **sadeghzareidev@gmail.com**
+
 
 
 
